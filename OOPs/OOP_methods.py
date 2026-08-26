@@ -56,14 +56,14 @@
 #? static method is neither a class method nor instance method but it can be supportive for both methods
 #? here , cls or self is not required to pass as first parameter inside the static method
 
-class Bank:
+# class Bank:
 
-    @staticmethod
-    def is_pin_valid(pin):
-        if len(str(pin)) == 4 and str(pin).isdigit():
-            print('Valid')
-        else:
-            print('Invalid')
+#     @staticmethod
+#     def is_pin_valid(pin):
+#         if len(str(pin)) == 4 and str(pin).isdigit():
+#             print('Valid')
+#         else:
+#             print('Invalid')
 
 
-Bank.is_pin_valid(1234)
+# Bank.is_pin_valid(1234)

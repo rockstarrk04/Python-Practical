@@ -1,0 +1,19 @@
+1. What is encapsulation in python ? explain with an example.
+
+2. Why encapsulation is important in OOPs ? 
+
+3. What is the difference between public , protected , private members in python ? 
+
+4. how to you create a private variable in a python class . explain with an example
+
+5. What is the purpose of double underscore(__) in python ?
+
+6. What is name mangling in  python ? Why it is used for private members ?
+
+7. What is the difference between _variable and __variable in python ?
+
+8. How can getter and setter method be used to implement encapsulation in python ?
+
+9. explain how the @property decorator helps achieve encapsulation in python ? 
+
+10. Write a python class demonstrating encapsulation using private variables and getter / setter methods.
